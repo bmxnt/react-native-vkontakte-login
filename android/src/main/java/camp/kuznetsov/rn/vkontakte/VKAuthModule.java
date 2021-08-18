@@ -22,7 +22,7 @@ public class VKAuthModule extends ReactContextBaseJavaModule implements Activity
 
     private static final String LOG = "VKAuthModule";
 
-    private static final String VK_API_VERSION = "5.52";
+    private static final String VK_API_VERSION = "5.122";
 
     private static final String E_ACTIVITY_DOES_NOT_EXIST = "E_ACTIVITY_DOES_NOT_EXIST";
     private static final String E_NOT_INITIALIZED = "E_NOT_INITIALIZED";
